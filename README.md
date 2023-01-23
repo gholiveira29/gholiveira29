@@ -1,7 +1,7 @@
 <h1>Olá eu sou o Guilherme Oliveira 👨🏽‍💻</h1>
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando Angular, TypeScript, Node, Firebase e Material Design
+- 🌱 Estou estudando TypeScript, Node, React e React native
 
  <div class="row">
   <a href="https://github.com/gholiveira29">
