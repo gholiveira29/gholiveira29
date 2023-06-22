@@ -1,6 +1,6 @@
 <h1>Olá eu sou o Guilherme Oliveira 👨🏽‍💻</h1>
 
-- 🔭 Hoje trabalho com front-end angular pleno
+- 🔭 Hoje trabalho com front-end angular sênior
 - 🌱 Estou estudando TypeScript, Node, React e React native
 
  <div class="row">
